@@ -1,2 +1,2 @@
-# Dream-jobs
+# Dream
 projects for college
